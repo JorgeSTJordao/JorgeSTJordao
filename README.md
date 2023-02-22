@@ -6,7 +6,7 @@
 )](https://www.linkedin.com/in/jorge-samuel-teixeira-jord%C3%A3o-792b381ab/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeSTJordao&show_icons=true&theme=onedark)
+![Jordao GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgestjordao&show_icons=true&theme=onedark)
 
 ## Linguagens de programação que utilizo:
 
