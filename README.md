@@ -4,7 +4,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jorge-samuel-teixeira-jord%C3%A3o-792b381ab/)
 
-
+![Jordao GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeSTJordao&show_icons=true&theme=onedark)
 
 ## Linguagens de programação que utilizo:
 
