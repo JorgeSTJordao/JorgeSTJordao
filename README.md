@@ -1,4 +1,4 @@
-### Olá! Meu nome é Jorge Samuel Teixeira Jordão 👋
+### Hi there! My name is Jorge Samuel Teixeira Jordão 👋
 
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -6,7 +6,7 @@
 
 ![Jordao GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeSTJordao&show_icons=true&theme=gruvbox)
 
-## Linguagens de programação que utilizo:
+## These are some progamming languages I've been using:
 
 <div style = "display: inline_block"><br/>
     <img align = "center" alt = "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -14,5 +14,5 @@
     <img align = "center" alt = "c" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div><br/>
 
-Gosto de desafios e de aprender assuntos novos, principalmente na área da tecnologia da informação.
+I like to face challenges and learn new subjects, especially about IT.
 
