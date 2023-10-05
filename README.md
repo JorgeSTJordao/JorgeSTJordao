@@ -3,7 +3,8 @@
 
  - :mag_right: Today I'm working with Full-Stack Development
  - :mortar_board: I'm a computer science student
- - :computer: I'm interested on Web Development 
+ - :computer: I'm interested on Web Development
+ - :robot: I have so much passion for Machine Learning 
 
 ![Jordao GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeSTJordao&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSTJordao&theme=monokai)
@@ -20,4 +21,4 @@
 ## Currently working on...
 - ReactJS
 - React Native
-- Django
+- Kotlin
