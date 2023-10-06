@@ -1,4 +1,4 @@
-### Hi  👋, I am Jorge Jordão
+### Hi 👋!  My name is Jorge Jordão
 ##
 
  - :mag_right: Today I'm working with Full-Stack Development
