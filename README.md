@@ -7,7 +7,7 @@
  - :robot: I have so much passion for Machine Learning 
 
 ![Jordao GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeSTJordao&show_icons=true&theme=monokai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSTJordao&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSTJordao&show_icons=true&theme=monokai&layout=compact)
 
 <div style = "display: inline_block"><br/>
   <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
