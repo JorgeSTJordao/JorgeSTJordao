@@ -1,10 +1,10 @@
 ### Hi 👋!  My name is Jorge Jordão
 ##
 
- - :mag_right: Today I'm working with Full-Stack Development
- - :mortar_board: I'm a computer science student
- - :computer: I'm interested in Web Development
- - :robot: I have so much passion for Machine Learning 
+ - :mag_right: Today I'm working with mobile application development using Kotlin
+ - :mortar_board: I'm a computer science student in the second period
+ - :computer: I'm interested in Machine Learning and Mobile App Development
+ - :robot: I have so much passion for innovate projects 
 
 ![Jordao GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeSTJordao&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSTJordao&show_icons=true&theme=monokai&layout=compact)
@@ -19,6 +19,5 @@
 </div><br/>
 
 ## Currently working on...
-- ReactJS
-- React Native
 - Kotlin
+- Python
