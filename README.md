@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Kotlin, Android**
 
-- 📫 How to reach me **contatojorgejordao@gmail.com**
+- 📫 How to reach me **jorgejordao1234@gmail.com**
 
 - ⚡ Fun fact **I like baking**
 
