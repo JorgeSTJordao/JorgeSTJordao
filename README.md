@@ -1,5 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
-
 <h1 align="center">Hi 👋, I'm Jorge Jordão</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 <img align = "right" alt="coding" width = "400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
