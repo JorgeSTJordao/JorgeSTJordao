@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **scientific research**
 
-- 🌱 I’m currently learning **Kotlin, Java, Python**
+- 🌱 I’m currently learning **Kotlin, Java, Python, Android**
 
 - 👯 I’m looking to collaborate on **innovative projects**
 
