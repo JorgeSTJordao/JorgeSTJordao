@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Jorge Jordão</h1>
-<h3 align="center">I'm a passionate Android Developer from Brazil</h3>
+<h3 align="center">A passionate Android Developer from Brazil</h3>
 
 <img src="https://komarev.com/ghpvc/?username=jorgestjordao&label=PROFILE%20VIEWS&color=0063E6&style=flat" alt="jorgestjordao" />
 
