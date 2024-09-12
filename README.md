@@ -27,7 +27,7 @@
 
 ## My Tools
 
-<img src="https://skillicons.dev/icons?i=bootstrap,python,flask,pycharm,kotlin,java,androidstudio,firebase,mysql,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=bootstrap,js,python,flask,pycharm,kotlin,java,idea,androidstudio,firebase,mysql,git,github&theme=dark" />
 
 ## Connect with Me
 
