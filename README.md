@@ -13,17 +13,17 @@
 
 ## About me
 
-- 🔭 I’m currently working on my first **Scientific Research**
+- 🔭 I’m currently working on my first **Scientific Research** and as a **Teacher Assistant for Python**
 
-- 🌱 I’m currently learning **Kotlin, Java, Python, Android, Bootstrap**
+- 🌱 I’m currently learning **Kotlin, Java, Python, Bootstrap and Android**
 
-- 📗 At the moment I'm interested in developing **Android Applications**
+- 📗 At the moment I'm interested in developing **Android Applications** and **Flask Websites**
 
 - 📊 In the future I want to work as a **Android Developer** or a **Machine Learning Engineering**
 
-- 💬 Ask me about **Python, Kotlin, Android**
+- 💬 Ask me about **Python, Kotlin, Android and Java**
 
-- ⚡ Fun fact **I know how to solve the Rubik's Cube**
+- ⚡ Fun fact **If I wasn't a programmer I'd might be a baker**
 
 ## My Tools
 
