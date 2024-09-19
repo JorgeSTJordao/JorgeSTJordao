@@ -3,11 +3,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=jorgestjordao&label=PROFILE%20VIEWS&color=0063E6&style=flat" alt="jorgestjordao" />
 
-<div align="center">  
+<div align="center" style="display:inline-block">  
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jorgestjordao&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgestjordao&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  ![stats2](https://github-readme-stats.vercel.app/api?username=JorgeSTJordao&theme=dark&hide=stars,contribs](https://github-readme-stats.vercel.app/api?username=JorgeSTJordao&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5))
+  ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSTJordao&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445)
 
 </div>
 
