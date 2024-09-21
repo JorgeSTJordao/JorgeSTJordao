@@ -32,3 +32,5 @@
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-samuel-teixeira-jord%C3%A3o-792b381ab/)
+
+![Snake animation](https://github.com/JorgeSTJordao/JorgeSTJordao/blob/output/github-contribution-grid-snake.svg)
