@@ -13,17 +13,17 @@
 
 ## About me
 
-- 🔭 I’m currently working on my first **Scientific Research** and as a **Teacher Assistant for Python**
+- 🔭 I’m currently working on my first **Internship as a Developer**
 
-- 🌱 I’m currently learning **Kotlin, Java, Python, Bootstrap and Android**
+- 🌱 I’m currently learning **Python, Bootstrap, Kotlin and Android**
 
-- 📗 At the moment I'm interested in developing **Android Applications** and **Flask Websites**
+- 📗 At the moment I'm interested in developing **Flask websites** or **Selenium applications**
 
-- 📊 In the future I want to work as a **Android Developer** or a **Machine Learning Engineering**
+- 📊 In the future, I want to work as a **Python Developer** or **Android Developer**
 
-- 💬 Ask me about **Python, Kotlin, Android and Java**
+- 💬 Ask me about **Python, Kotlin and SQL**
 
-- ⚡ Fun fact **If I wasn't a programmer I'd might be a baker**
+- ⚡ Fun fact **Linkin Park is my favorite band**
 
 ## My Tools
 
