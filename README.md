@@ -1,22 +1,34 @@
-<h1>Hi, I'm Jorge 👋🏻🖱️</h1>
+<h1>Hi, I'm Jorge 🚀</h1>
 
-## About me
+I’m a Python Developer at InvestMoney SA, currently enhancing my skills in Selenium, Flask, and Django. I’m also managing team workflows using Azure DevOps and will soon start learning React Native.
 
-- 🔭 I’m currently working on my first **Internship as a Developer**
+<h2>Teck Stack</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
-- 🌱 I’m currently learning **Python, Bootstrap, Kotlin and Android**
+<h3>Currently Learning</h3>
+<ul align="left">
+  <li>Selenium</li>
+  <li>Flask</li>
+  <li>Django</li>
+  <li>Azure Devops</li>
+</ul>
 
-- 📗 At the moment I'm interested in developing **Flask websites** or **Selenium applications**
+<h3 align="left">Recent Projects</h3>
+<ul align="left">
+  <li>Link project</li>
+</ul>
 
-- 📊 In the future, I want to work as a **Python Developer** or **Android Developer**
+<br />
+<br />
+<br />
+<br />
+<br />
 
-- 💬 Ask me about **Python, Kotlin and SQL**
+## Connect with me
 
-- ⚡ Fun fact **Linkin Park is my favorite band**
-
-## My Tools
-
-<img src="https://skillicons.dev/icons?i=bootstrap,js,python,flask,pycharm,kotlin,java,idea,androidstudio,firebase,mysql,git,github&theme=dark" />
-
-## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-samuel-teixeira-jord%C3%A3o-792b381ab/)
