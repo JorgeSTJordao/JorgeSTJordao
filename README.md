@@ -2,6 +2,10 @@
 
 I’m a Python Developer at InvestMoney SA, currently enhancing my skills in Selenium, Flask, and Django. I’m also managing team workflows using Azure DevOps and will soon start learning React Native.
 
+If you are interested **connect with me**: <br><br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-samuel-teixeira-jord%C3%A3o-792b381ab/)
+
+<hr>
 
 <h2>Teck Stack</h2> 
 <picture>
@@ -31,7 +35,3 @@ I’m a Python Developer at InvestMoney SA, currently enhancing my skills in Sel
 <br>
 <br>
 <br>
-
-<h2 align="left">Connect with me</h2> 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-samuel-teixeira-jord%C3%A3o-792b381ab/)
