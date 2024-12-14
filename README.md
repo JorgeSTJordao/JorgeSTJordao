@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jorge 🚀</h1>
+<h1>Hi, I'm Jorge 💡</h1>
 
 I’m a Python Developer at InvestMoney SA, currently enhancing my skills in Selenium, Flask, and Django. I’m also managing team workflows using Azure DevOps and will soon start learning React Native.
 
