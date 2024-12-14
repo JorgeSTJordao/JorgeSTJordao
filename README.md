@@ -32,6 +32,6 @@ I’m a Python Developer at InvestMoney SA, currently enhancing my skills in Sel
 <br>
 <br>
 
-<h2>Connect with me</h2> 
+<h2 align="left">Connect with me</h2> 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-samuel-teixeira-jord%C3%A3o-792b381ab/)
