@@ -17,12 +17,6 @@ I am a Computer Science and E-business student who conducted research in Android
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeSTJordao&layout=donut-vertical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### ✉️ Reach Out to Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-samuel-teixeira-jord%C3%A3o-792b381ab/)
